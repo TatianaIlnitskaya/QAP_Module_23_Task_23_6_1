@@ -1,4 +1,4 @@
-# QAP_Module_23_Task_23_6_1
+# QAP_Module_23_Task_23_6_1_PytonTests
 Решение к заданию 23.6.1 23 модуля курса QAP SkillFactory
 
 Задание 23.6.1
